@@ -90,3 +90,10 @@ Method	Endpoint	Description:
 * Concurrent client support
 * Download JSON feature
 ---
+
+Alte pachete:
+```
+npm install express mysql2 cors body-parser
+
+```
+---
